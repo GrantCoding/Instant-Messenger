@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author McRev
+ *
+ */
+module ClientSide {
+}
